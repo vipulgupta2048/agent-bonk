@@ -1,14 +1,6 @@
 # agent-bonk
 
-A tiny **Stop hook** that plays a Mario-style pipe sound and prints a `DONE` banner the moment your agent finishes a turn. Never miss the end of a long run again — get a satisfying *bonk* instead of staring at the terminal.
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-          🪈   D O N E   🪈
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-## Demo
+A tiny **Stop hook** that plays a pipe falling when your agent finishes a turn in Command Code. Never miss the end of a long run again. Get a wake up call *bonk* instead of staring at the terminal.
 
 <video src="https://github.com/vipulgupta2048/agent-bonk/raw/main/demo.mp4" controls muted></video>
 
@@ -77,4 +69,5 @@ Built for [Command Code](https://github.com/CommandCodeAI/commandcode), but the 
 
 ## License
 
-MIT — do whatever you want with it.
+MIT License: do whatever you want with it, Vipul Gupta
+Made by Command Code, with Command Code 
