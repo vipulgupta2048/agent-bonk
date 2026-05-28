@@ -2,7 +2,7 @@
 
 A tiny **Stop hook** that plays a pipe falling when your agent finishes a turn in Command Code. Never miss the end of a long run again. Get a wake up call *bonk* instead of staring at the terminal.
 
-<video src="https://github.com/vipulgupta2048/agent-bonk/raw/main/demo.mp4" controls muted></video>
+https://github.com/user-attachments/assets/bcaa94bb-dd79-4b61-ad4f-fd2f8696c3bc
 
 > If the player above doesn't load, [watch the demo here](demo.mp4).
 
