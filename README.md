@@ -8,6 +8,12 @@ A tiny **Stop hook** that plays a Mario-style pipe sound and prints a `DONE` ban
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+## Demo
+
+<video src="https://github.com/vipulgupta2048/agent-bonk/raw/main/demo.mp4" controls muted></video>
+
+> If the player above doesn't load, [watch the demo here](demo.mp4).
+
 ## What's in here
 
 ```
